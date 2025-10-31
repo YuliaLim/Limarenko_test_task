@@ -1,0 +1,350 @@
+@media (max-width: 767.98px) {
+  body {
+    max-width: 576px;
+    margin: 0 auto;
+  }
+
+  .wraper_padding {
+    padding-left: 33px;
+    padding-right: 33px;
+  }
+  .productions_list {
+    overflow: hidden;
+  }
+  .rating {
+    padding: 0 !important;
+  }
+  .rating_years {
+    padding-top: 126px;
+  }
+  .rating_info {
+    padding-top: 170px;
+    margin-left: 24px;
+  }
+  .rating_info_data {
+    font-size: 25px;
+  }
+  .be_mycanate_form_wrap {
+    display: block;
+    text-align: center;
+  }
+  .be_mycanate_form {
+    display: block;
+  }
+  .be_mycanate_form_footer {
+    flex-direction: column-reverse;
+    padding-top: 40px;
+    padding-bottom: 50px;
+    align-items: center;
+  }
+  .be_mycanate_form_footer input {
+    margin-bottom: 30px;
+  }
+  .be_mycanate_info {
+    flex-direction: column-reverse;
+  }
+  .partners_theater_list {
+    padding-top: 60px;
+  }
+  .partners_theater_list_item:first-child {
+    padding-bottom: 89px;
+  }
+  .partners_theater {
+    padding-bottom: 80px;
+  }
+  .be_mycanate_form_input input {
+    width: 210px;
+  }
+  .be_mycanate_form_input input,
+  textarea::placeholder {
+    padding-left: 10px;
+  }
+
+  .be_mycanate_form_textarea {
+    text-align: left;
+  }
+  .be_mycanate_form_textarea textarea {
+    width: 96% !important;
+  }
+  .be_mycanate_contacts {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+  }
+  .taR {
+    text-align: right;
+  }
+  .footer {
+    padding-top: 0;
+  }
+  .footer_copy_info {
+    width: 55%;
+  }
+  .be_mycanate_form {
+    margin-left: 0;
+  }
+
+  .about_theater_info {
+    flex-direction: column;
+  }
+  .about_theater_info_statistic_data {
+    display: flex;
+    justify-content: space-around;
+  }
+  .about_theater_info_data_text {
+    text-align: justify;
+    margin-bottom: 19px;
+    width: 100%;
+  }
+  .about_theater_info_data_tittle,
+  .about_theater_info_statistic_tittle {
+    text-align: center;
+  }
+  .section_tittle {
+    margin-top: 116px;
+  }
+  #button_burger_menu {
+    display: block;
+  }
+  nav {
+    justify-content: space-between;
+  }
+
+  .main_theater_section_info_data {
+    margin-top: 0;
+    margin-right: 0;
+  }
+  .main_theater_section_info_data_tittle {
+    font-size: 36px;
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  .main_theater_section {
+    padding-left: 33px;
+    padding-right: 33px;
+  }
+  .contacts,
+  .ul_menu {
+    display: none;
+  }
+}
+@media (min-width: 768px) and (max-width: 991.98px) {
+  body {
+    max-width: 768px;
+    margin: 0 auto;
+  }
+  .wraper_padding {
+    padding-left: 39px;
+    padding-right: 39px;
+  }
+
+  .be_mycanate_info {
+    flex-direction: column-reverse;
+  }
+  .rating_years {
+    padding-top: 126px;
+    padding-left: 99px;
+  }
+  .rating_info {
+    padding-top: 170px;
+    margin-left: 24px;
+  }
+  .rating_info_data {
+    font-size: 29px;
+  }
+  .partners_theater_list {
+    padding-top: 60px;
+  }
+  .partners_theater_list_item:first-child {
+    padding-bottom: 89px;
+  }
+  .be_mycanate_form_input {
+    width: 60%;
+  }
+  .be_mycanate_form_textarea {
+    width: 40%;
+  }
+  textarea {
+    width: 100% !important;
+    height: 100px;
+  }
+  .be_mycanate_contacts {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding-top: 60px;
+  }
+  .taR {
+    text-align: right;
+  }
+  .footer {
+    padding-top: 10px;
+  }
+  .about_theater_info_statistic {
+    padding-left: 10px;
+  }
+  #button_burger_menu {
+    display: block;
+  }
+
+  .main_theater_section {
+    padding-right: 39px;
+    padding-left: 39px;
+  }
+  .contacts,
+  .ul_menu {
+    display: none;
+  }
+  .main_theater_section_info {
+    padding-left: 73px;
+    padding-right: 75px;
+  }
+  nav {
+    justify-content: space-between;
+  }
+
+  .main_theater_section_info_data {
+    margin-top: 0;
+    margin-right: 0;
+  }
+  .main_theater_section_info_data_tittle {
+    font-size: 36px;
+    text-align: center;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1919.98px) {
+  body {
+    max-width: 992px;
+
+    margin: 0 auto;
+  }
+  .wraper_padding {
+    padding-left: 191px;
+    padding-right: 111px;
+  }
+  .be_mycanate_info {
+    flex-direction: column-reverse;
+  }
+  .be_mycanate_contacts {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding-top: 60px;
+  }
+  .rating_years {
+    padding-top: 126px;
+    padding-right: 58px;
+  }
+  .rating_info {
+    padding-top: 170px;
+  }
+  textarea {
+    width: 270px !important;
+  }
+  .main_theater_section {
+    padding-right: 50px;
+    padding-left: 41px;
+    padding-bottom: 208px;
+  }
+  nav {
+    flex-direction: column;
+    flex-wrap: nowrap;
+  }
+  .main_cont {
+    text-align: center;
+    margin-top: 50px;
+  }
+  .main_theater_section_info_data {
+    margin-top: 24px;
+  }
+  .ul_menu li a {
+    margin-right: 30px;
+  }
+  .main_theater_section_info_data {
+    width: 690px;
+  }
+}
+@media (min-width: 1920px) {
+  .wraper_padding {
+    padding-left: 405px;
+    padding-right: 405px;
+  }
+  body {
+    max-width: 1920px;
+
+    margin: 0 auto;
+  }
+  .rating_info {
+    padding-top: 232px;
+    padding-bottom: 181px;
+  }
+  .rating_years {
+    padding-left: 190px;
+    padding-top: 187px;
+    padding-bottom: 126px;
+    padding-right: 103px;
+  }
+  .productions_list {
+    padding-left: 150px;
+  }
+  .section_tittle {
+    letter-spacing: 6.4px;
+    font-size: 64px;
+  }
+  .about_theater_info_img {
+    display: block;
+  }
+  .about_theater_info_statistic {
+    padding-right: 25px;
+  }
+  textarea {
+    width: 310px;
+  }
+  .main_theater_section_info_data {
+    width: 594px;
+  }
+  .slider_show img {
+    width: 350px;
+  }
+  .slider_button {
+    display: flex;
+    justify-content: space-between;
+    top: 813px;
+    position: absolute;
+    width: 350px;
+  }
+  .slider_button span {
+    font-family: Open Sans Condensed Bold;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0.8px;
+  }
+  .mR10 {
+    margin-right: 10px;
+  }
+  .main_theater_section_info_slider {
+    display: block;
+  }
+  .slider_show {
+    position: relative;
+  }
+
+  .shiftRightSlider {
+    left: 20px;
+    top: 20px;
+  }
+  .slide1 {
+    background-image: url("./img/slide1.jpg");
+  }
+  .slide2 {
+    background-image: url("./img/slide2.jpg");
+  }
+  .slide {
+    width: 350px;
+    height: 490px;
+    position: absolute;
+    background-size: contain;
+  }
+}
